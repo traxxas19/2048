@@ -1,13 +1,11 @@
-// Name: Benjamin Knott
+// Project: 2048
 // Date: 11/10/25
-// Class: EGNR 265
-// Assignment: Project 2
-// Purpose: To create a game, SlideSquare, that moves tiles around a grid
+// Purpose: To create a game, 2048, that moves tiles around a grid
 // a given direction, and merges adjacent tiles while doubling their value.
 // Compiled on: Code::Blocks
 
 #define TERM_PC
-#include "slidesq_support.h"
+#include "2048_support.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
