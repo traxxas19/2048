@@ -30,13 +30,6 @@ You can also compile directly from the Command Prompt or Powershell:
    gcc 2048.c -o 2048.exe
    2048.exe
 ```
-## Cloning the Repository
-To clone this repository:
-```
-cd C:\Users\[Username]\Desktop [Or other desired local address to clone repository]
-git clone https://github.com/TwistedCorner04/2048.git
-cd 2048
-```
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
